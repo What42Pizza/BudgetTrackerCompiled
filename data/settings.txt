@@ -1,0 +1,27 @@
+Settings
+
+In order for the changes to apply, you need to save this and re-open My Budget.
+
+
+
+fullscreen: false
+(default: false)
+
+window size: 1200x675
+(default: 1200x675)
+
+
+
+page name preset: [year]
+(default: [year])
+
+
+
+max undo chain: 100
+(default: 100)
+
+
+
+(these are tab seperated values)
+column names: Jan	Feb	Mar	Apr	May	June	July	Aug	Sep	Oct	Nov	Dec
+(default: Jan	Feb	Mar	Apr	May	June	July	Aug	Sep	Oct	Nov	Dec)
