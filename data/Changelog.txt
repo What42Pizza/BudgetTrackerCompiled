@@ -1,0 +1,57 @@
+V1.2.0:
+01/29/21
+Added Changelog button (& moved changelog to file)
+Fixed bug with Open Directory button
+
+V1.1.0:
+01/28/21
+Added buttons to remove individual rows
+Fixed undo/redo bugs (redid history system)
+Fixed bug with displaying totals after adding / removing rows
+Up to 2000 lines of code!
+
+V1.0.3:
+01/26/21
+Added 'Open Directory' button
+
+V1.0.2:
+01/24/21
+Added 'Open Settings' button
+
+V1.0.1:
+01/22/21
+Fixed bug with settings that disabled fullscreen
+
+V1.0.0:
+01/21/21
+Finished page editor(?)
+  Changes to values are savable
+  Added Add Row and Remove Row buttons
+1800 lines of code! (not including GUISystem2)
+
+B1.3.0:
+01/19/21
+More work on page editor (almost done)
+
+B1.2.0:
+01/18/21
+More work on page editor
+
+B1.1.0:
+01/16/21
+Started work on new page editor
+
+B1.0.0:
+01/15/21
+Deleted old page editor
+Updated page manager to use new page system
+
+A1.1.0:
+01/14/21
+Finished page selector (mostly)
+Fixed many bugs
+Made many small improvements
+
+A1.0.0:
+01/13/21
+Finished page editor (mostly)

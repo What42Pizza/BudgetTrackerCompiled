@@ -15,3 +15,8 @@ YSize:
 
 XSizePixelOffset:
 -1
+
+TextResetsOnEdit:
+false
+TextResetsIfEqualing:
+New Line:

@@ -1,5 +1,5 @@
 2021
-example line 1:
+Click to enter text
 10
 25
 15

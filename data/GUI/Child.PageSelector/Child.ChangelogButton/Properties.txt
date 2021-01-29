@@ -1,11 +1,11 @@
 Name:
-SettingsButton
+ChangelogButton
 
 ElementType:
 TextButton
 
 XPos:
-0.11
+0.66
 YPos:
 0.05
 XSize:
@@ -14,4 +14,4 @@ YSize:
 0.09
 
 Text:
-Open Settings
+Changelog
